@@ -17,12 +17,49 @@ I am [`Rome`](https://www.rome.io), A Full-Stack Developer with 4 years programm
 
 ![Actively Learning](https://skillicons.dev/icons?i=aws,firebase)
 
-### Planning to Learn
+### Learning Next
 
 ![Planning to Learn](https://skillicons.dev/icons?i=docker,kubernetes,nextjs)
 
 
 
+
+## 🚀 Selected Projects
+
+### 🎟️ aMagicExperience
+A fundraising web app that lets users win unique experiences by supporting charitable causes.
+- Stack: React, Node.js, Express, MongoDB
+- Features: Authentication, secure payments, donation tracking
+
+### 🏠 Kastle
+Housing platform tailored for West-African markets.
+- Stack: React, Tailwind CSS, Express, MongoDB, Node.js
+- Features: Advanced search, property listings, intuitive UI/UX
+
+### 📞 Support Desk
+Complaint management app for a telecom company.
+- Stack: React, Node.js, Express, MongoDB
+- Features: Ticket system, status updates, agent dashboard
+
+### 🎬 Filmhouse
+Cinema booking system with showtime listings and engagement tools.
+- Stack: React
+- Features: Dynamic scheduling, booking integration, responsive design
+
+### ⚖️ ZaneSolicitors
+Corporate website for law firm.
+- Stack: HTML, CSS, React, MongoDB, Express
+- Features: Content CRM, contact forms, clean layout
+
+
+
+
+## 💼 What I Do
+
+- **Frontend:** React, TypeScript, Tailwind CSS, Redux, React Router
+- **Backend:** Node.js, Express, MongoDB, Mongoose
+- **Other Tools:** Firebase, Git, Vite, Webpack
+- **Soft Skills:** Project Management, Problem Solving, Marketing Strategy
 
 
 <!--
