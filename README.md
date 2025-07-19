@@ -5,8 +5,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/rome.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram)](https://www.instagram.com/koooolandthegang/)
 
-
-I am [`Rome`](https://www.rome.io), I build full stack web and mobile applications
+## About
+I am [`Rome`](https://www.rome.io), A Full-Stack Developer with 4 years programming experience - two of those building React and Node applications. I learnt by doing - by powering through countless nights of coding courses while running an indoor-cycling studio by day. That schedule built a work ethic I still lean on for every sprint. Today, I bring together technical depth, a strategic mindset, and a voracious appetite for learning. I look forward to working with collaborative teams, and to challenges that stretch my skills and imagination. 
 
 ## ⚙️ TECHNOLOGIES AND SKILLS
 
@@ -19,7 +19,10 @@ I am [`Rome`](https://www.rome.io), I build full stack web and mobile applicatio
 
 ### Planning to Learn
 
-![Planning to Learn](https://skillicons.dev/icons?i=angular,rust,go,vue)
+![Planning to Learn](https://skillicons.dev/icons?i=docker,kubernetes,nextjs)
+
+
+
 
 
 <!--
